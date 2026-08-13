@@ -1,0 +1,11 @@
+python==3.12.13
+tifffile==2023.7.10
+numpy==2.5.1
+scipy==1.18.0
+pandas==3.0.5
+Pillow==12.3.0
+matplotlib==3.11.1
+colorcet==3.2.1
+tensorflow==2.21.0
+ipython==9.15.0
+torch==2.13.0
