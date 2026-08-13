@@ -14,6 +14,8 @@
 - `u-net.py`：主 U-Net 训练与推理脚本
 - `u-net_phy.py`：物理信息 U-Net 版本
 
+首先需要使用`thickness.py`自行生成深度图对应的tiff到`pre_analysis`对应文件夹下，具体参见示意图。
+
 ## 需求
 见requirement.txt
  python==3.12.13
